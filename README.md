@@ -30,5 +30,31 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 4. And another item
 
 ***
-- [x]
-- 
+- [x] to do list
+- [ ] 2nd thing
+***
+python code
+```
+s = "Pythin syntax highlighting"
+print s
+```
+***
+javascript code
+```
+var s = "Javascript syntax highlighting";
+alert(s);
+```
+***
+colons can be...
+|   tables    |    Are    |    cool    |
+|:-----------|:--------:| -----: |
+|col 3 is |right-aligned|$1600|
+|col 2 is |centered|$12|
+|zebra stripes|are neat|$1|
+
+There must be...
+
+|    Markdown    |    Less    |   Pretty   |
+|:-----------|:--------| :----- |
+|*Still* |`renders`|**nicely**|
+|1 |2| 3|
