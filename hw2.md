@@ -14,6 +14,7 @@ gantt
 ```
 
 ## PERT/CPM 圖
+
 ```graphviz
 digraph {
 	node[shape=record];
@@ -31,4 +32,5 @@ digraph {
     no4->no5
 }
 ```
+
 ## 關鍵路徑
